@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VoiceGPT</string>
+    <string name="output_text">"Texto Salida "</string>
+</resources>
